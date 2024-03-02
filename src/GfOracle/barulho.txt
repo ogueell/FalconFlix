@@ -1,0 +1,3 @@
+ Nome do ator: bomba
+ Data de nascimento do ator: 12/12/1212
+

@@ -1,0 +1,6 @@
+ Nome do ator: marcos
+ Data de nascimento do ator: 1212
+ Nome do ator: jose
+ Data de nascimento do ator: 1212
+
+
